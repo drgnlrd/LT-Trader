@@ -1,0 +1,18 @@
+c:\users\shabb\documents\visual studio 2010\Projects\L T traders\L T traders\bin\L T traders.dll
+c:\users\shabb\documents\visual studio 2010\Projects\L T traders\L T traders\bin\L T traders.pdb
+c:\users\shabb\documents\visual studio 2010\Projects\L T traders\L T traders\obj\Debug\L T traders.dll
+c:\users\shabb\documents\visual studio 2010\Projects\L T traders\L T traders\obj\Debug\L T traders.pdb
+C:\Users\shabb\Documents\Visual Studio 2010\Projects\L T traders\L T traders\obj\Debug\L T traders.csprojResolveAssemblyReference.cache
+C:\Users\shabb\Documents\Visual Studio 2010\Projects\L T traders\L T traders\bin\DbHelper.exe
+C:\Users\shabb\Documents\Visual Studio 2010\Projects\L T traders\L T traders\bin\Interop.SQLDMO.dll
+C:\Users\shabb\Documents\Visual Studio 2010\Projects\L T traders\L T traders\bin\DbHelper.pdb
+C:\Users\shabb\Documents\Visual Studio 2010\Projects\L T traders\L T traders\bin\Properties.Resources.Designer.cs.dll
+C:\Users\shabb\Desktop\shabbir\L T traders\L T traders\obj\Debug\L T traders.csprojResolveAssemblyReference.cache
+C:\Users\shabb\Desktop\shabbir\L T traders\L T traders\obj\Debug\L T traders.dll
+C:\Users\shabb\Desktop\shabbir\L T traders\L T traders\obj\Debug\L T traders.pdb
+C:\Users\shabb\Desktop\shabbir\L T traders\L T traders\bin\L T traders.dll.config
+C:\Users\shabb\Desktop\shabbir\L T traders\L T traders\bin\L T traders.dll
+C:\Users\shabb\Desktop\shabbir\L T traders\L T traders\bin\L T traders.pdb
+C:\Users\shabb\Desktop\shabbir\L T traders\L T traders\bin\Database Helpers.dll
+C:\Users\shabb\Desktop\shabbir\L T traders\L T traders\bin\Interop.SQLDMO.dll
+C:\Users\shabb\Desktop\shabbir\L T traders\L T traders\bin\DbHelper.pdb
